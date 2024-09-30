@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes Common Errors.md",
+                "file": "K8s/k8s-common-errors/Kubernetes Common Errors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes Common Errors.md",
+                "file": "K8s/k8s-common-errors/Kubernetes Common Errors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes Common Errors.md",
+                "file": "K8s/k8s-common-errors/Kubernetes Common Errors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes Common Errors.md"
+                "file": "K8s/k8s-common-errors/Kubernetes Common Errors.md"
               }
             }
           }
@@ -146,9 +146,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bc840295bda24299",
+  "active": "9d37400648bae09b",
   "lastOpenFiles": [
-    "Kubernetes Common Errors.md",
+    "K8s/k8s-common-errors/Kubernetes Common Errors.md",
     "K8s/k8s-common-errors",
     "K8s"
   ]
