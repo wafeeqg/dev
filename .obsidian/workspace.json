@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "K8s/k8s-common-errors/Kubernetes Common Errors.md",
+                "file": "K8s/ConfigMaps and Secrets/ConfigMap.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "K8s/k8s-common-errors/Kubernetes Common Errors.md",
+                "file": "K8s/ConfigMaps and Secrets/ConfigMap.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "K8s/k8s-common-errors/Kubernetes Common Errors.md",
+                "file": "K8s/ConfigMaps and Secrets/ConfigMap.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "K8s/k8s-common-errors/Kubernetes Common Errors.md"
+                "file": "K8s/ConfigMaps and Secrets/ConfigMap.md"
               }
             }
           }
@@ -146,9 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9d37400648bae09b",
+  "active": "bc840295bda24299",
   "lastOpenFiles": [
+    "K8s/Pods Paramerisation/Parameterisation in Pods.md",
+    "K8s/ConfigMaps and Secrets/ConfigMap.md",
+    "K8s/Pods Paramerisation",
     "K8s/k8s-common-errors/Kubernetes Common Errors.md",
+    "K8s/ConfigMaps and Secrets",
     "K8s/k8s-common-errors",
     "K8s"
   ]
