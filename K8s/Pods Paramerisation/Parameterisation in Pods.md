@@ -2,6 +2,8 @@
 2- Command Line Arguments
 3- Configuration files in Volumes
 
+<div hidden>
+```
 @startmindmap
 * Debian
 ** Ubuntu
@@ -16,3 +18,5 @@
 *** <s>Raspmbc</s> => OSMC
 *** <s>Raspyfi</s> => Volumio
 @endmindmap
+
+</div>
